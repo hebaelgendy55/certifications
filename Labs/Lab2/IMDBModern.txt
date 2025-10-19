@@ -1,0 +1,9 @@
+Film: Frozen
+
+Rating: IMDb RATING7.4/10699K
+
+Popularity: POPULARITY1,11869
+
+Url: imdb.com/title/tt2294629/?ref_=fn_all_ttl_1
+
+Movie Details :2013  1h 42m

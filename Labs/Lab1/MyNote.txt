@@ -1,0 +1,1 @@
+temp: City: luxor        Temperature: 34        Humidity: 25%        Status: 10 km/h
